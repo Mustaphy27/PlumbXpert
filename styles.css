@@ -1,0 +1,123 @@
+  body{ 
+      background-color: #C8FFE0;
+      font-family: 'Montserrat';
+
+  }
+
+    h1{
+        font-family: 'Ubuntu ', sans-serif;
+        font-size: 2.5rem;
+        line-height: 1.6;
+    }
+
+    h4{
+        font-weight:700;
+    }
+
+    h5{
+       font-size: 20px;
+    }
+
+    dl{
+      font-weight: 700;
+    }
+   p{ 
+     padding: 10px 120px 10px 120px;
+   }
+
+  .app{ 
+    font-weight: 700 ;
+    padding: 20px 40px 20px 40px;
+  }
+   
+.app2{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.aaf{
+
+  margin-right: 10px;
+}
+
+.body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 10px 10px; 
+}
+
+.h51{
+  padding: 5px 20px;
+}
+
+.container-fluid{ 
+    padding: 15px 30px;
+}
+
+.container-fluid2{
+    background-color: white;
+    padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.intro{
+    font: 700px;
+    padding-top: 150px;
+}
+
+.intro-texts{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2rem;
+    padding: 10px 20px;
+}
+
+ .features{
+    font-size: large;
+ }
+
+ .fa-2xl{
+     padding: 2% 0 2%;
+ }
+
+ .fa-2xl:hover {
+    color:#1AACAC ;
+  
+     }
+
+#home{
+    background-color: #C8FFE0;
+}
+
+  .navbar{
+    background-color:  #C8FFE0;
+ }
+ 
+ .navbar-brand{
+    padding:0 0 0 25px;
+    font-family: 'ubuntu';
+    font-size: 2.5rem;
+ }
+
+ .plumber{
+    width: 70%;
+}
+  
+ .nav-item{
+    padding: 0 25px;
+ }
+
+ @media (max-width:1020px) {
+  .intro-texts{ 
+    padding-top: 0;
+padding-bottom: 150px;
+font-size: 1.8rem;
+}
+ .carousel-inner{
+  padding: 30px 0 30px;
+  
+ }
+
+ .fa-2xl{
+  padding-bottom: 10px;
+}
+}
